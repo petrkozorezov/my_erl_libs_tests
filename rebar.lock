@@ -1,0 +1,14 @@
+{"1.2.0",
+[{<<"erl_eval_records">>,{pkg,<<"erl_eval_records">>,<<"1.0.0">>},0},
+ {<<"erl_snowflake">>,{pkg,<<"erl_snowflake">>,<<"1.1.0">>},0},
+ {<<"estdinout">>,{pkg,<<"estdinout">>,<<"1.0.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"erl_eval_records">>, <<"92387453DB899B9AFEB9D44A6395E7DF7B2D9B7DA25AB10A426839C37CD4E55D">>},
+ {<<"erl_snowflake">>, <<"BEB3238547B354448300D0EF0A57E2C435E749CC109FE428D530C3CF768AA70D">>},
+ {<<"estdinout">>, <<"406B08301181355DD906EC40DE68F007EA30E78D3091FCBC21DB320FC9672E91">>}]},
+{pkg_hash_ext,[
+ {<<"erl_eval_records">>, <<"3934B57F5CD3B69F21743A035C34B7F3DCAC7364002F0D469E04912CD5185832">>},
+ {<<"erl_snowflake">>, <<"28B2398790A1D802082CC7B5AA816D0D140D816F1FDFADF0B6A73930B6831FBC">>},
+ {<<"estdinout">>, <<"EE02616CBEA4E8521BC7C6A9932A7107CD265290B05B9F70CB91EF3303340199">>}]}
+].

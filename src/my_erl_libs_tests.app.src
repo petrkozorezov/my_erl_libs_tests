@@ -1,0 +1,11 @@
+{application, my_erl_libs_tests, [
+  {description, "Tests for my erlang libs"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {licenses, ["Apache-2.0"]},
+  {links, [{"GitHub", "https://github.com/petrkozorezov/my_erl_libs_tests"}]}
+]}.
